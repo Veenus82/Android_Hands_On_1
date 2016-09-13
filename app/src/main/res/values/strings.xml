@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Start a New Activity</string>
+    <string name="new_button">Start a New Activity</string>
+    <string name="hello2_text">Yext in new activity</string>
+</resources>
